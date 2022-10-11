@@ -1,0 +1,14 @@
+{
+    "name": "challenge_10_solution",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^24.9.0",
+        "inquirer": "^8.2.4"
+    }
+}
