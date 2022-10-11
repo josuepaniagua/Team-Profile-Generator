@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Collaborators](#collaborators)
-- [License](#license)
+* [License](#license)
 
 ## Created by
 
