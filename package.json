@@ -1,14 +1,23 @@
 {
-    "name": "challenge_10_solution",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "jest"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "jest": "^24.9.0",
-        "inquirer": "^8.2.4"
-    }
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "* [Creator](#created-by)\r * [Description](#description)\r * [Installation](#installation)\r * [Usage](#usage)\r * [Collaborators](#collaborators)\r - [License](#license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josuepaniagua/Team-Profile-Generator.git"
+  },
+  "author": "Josue Paniagua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josuepaniagua/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/josuepaniagua/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
+  }
 }
