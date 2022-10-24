@@ -15,7 +15,7 @@ josuepaniagua
 
 ## Description
 
-
+This application will allow user to input information about a team. The user can select from three different role: manager, engineer, and intern. When everything is done, this program will create an HTML page with all the members of the team and thier information.
 
 ## Installation
 
@@ -27,9 +27,7 @@ Steps to follow to install my project:
 
 ## Usage
 
-
-
-![alt text](/assets/images/Screenshot1.png)
+![alt text](/images/video.webm)
 
 ## Collaborators
 
